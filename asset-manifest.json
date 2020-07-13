@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/debloyadd/static/css/main.28695900.chunk.css",
+    "main.js": "/debloyadd/static/js/main.81e5ec0c.chunk.js",
+    "main.js.map": "/debloyadd/static/js/main.81e5ec0c.chunk.js.map",
+    "runtime-main.js": "/debloyadd/static/js/runtime-main.1ec78f83.js",
+    "runtime-main.js.map": "/debloyadd/static/js/runtime-main.1ec78f83.js.map",
+    "static/js/2.caa915cd.chunk.js": "/debloyadd/static/js/2.caa915cd.chunk.js",
+    "static/js/2.caa915cd.chunk.js.map": "/debloyadd/static/js/2.caa915cd.chunk.js.map",
+    "index.html": "/debloyadd/index.html",
+    "precache-manifest.92256e99c55d64fdf00895e6c42097bc.js": "/debloyadd/precache-manifest.92256e99c55d64fdf00895e6c42097bc.js",
+    "service-worker.js": "/debloyadd/service-worker.js",
+    "static/css/main.28695900.chunk.css.map": "/debloyadd/static/css/main.28695900.chunk.css.map",
+    "static/js/2.caa915cd.chunk.js.LICENSE.txt": "/debloyadd/static/js/2.caa915cd.chunk.js.LICENSE.txt",
+    "static/media/airpods.png": "/debloyadd/static/media/airpods.8be21d15.png",
+    "static/media/cam.png": "/debloyadd/static/media/cam.69764619.png",
+    "static/media/pc.png": "/debloyadd/static/media/pc.9fa2669f.png",
+    "static/media/phone.png": "/debloyadd/static/media/phone.b8e6ada8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec78f83.js",
+    "static/js/2.caa915cd.chunk.js",
+    "static/css/main.28695900.chunk.css",
+    "static/js/main.81e5ec0c.chunk.js"
+  ]
+}
